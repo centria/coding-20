@@ -18,18 +18,8 @@ The list below does not include everything, but exists to give a guideline for s
 | 6| You understand the dfference between **static** and **non-static** classes and methods. You can separate **user interface** from program logic. |
 
 
-| Part     |      Goal   |  
-|:--------:|:------------|
-| 7| You can create a project with proper structure and are able to run tests in the correct folder. |
-| 8| You can use **dictionaries** as data storage, understand **hash** and solve problems with them in object oriented programming. |
-| 9| You understand inheritance and interfaces. You will learn to create classes that inherit another classes, and also classes that implement one or more interfaces. |
-| 10| You understand how objects are compared and can use this information. You understand the basics of enumeration and regular expressions. |
-| 11| You can create random strings and numbers. You are able to handle exceptions, read and write (to and from) files, and use these in problem solving. |
-| 12| You understand the basics of the keyword **using**. You can create small graphical interfaces for your programs. |
+The courses are graded on a scale of 0-5, individually. The grade comprises of the amount of exercises done. There will be no exam.
 
-
-
-The courses are graded on a scale of 0-5, individually. The grade comprises of the amount of exercises done.
 
 | Percentage done | Grade |
 |:----------------|:-----:|
@@ -40,4 +30,3 @@ The courses are graded on a scale of 0-5, individually. The grade comprises of t
 | 50 % - 59,99 %  |   1   |
 | Less than 50 %  |   0   |
 
-At the end of the courses, there is also an exam with **pass / fail** grading. This does not affect the grade but is to ensure that you have done the exercises yourself. More information about the exam will come closer to the exam.
