@@ -9,7 +9,7 @@ published: true
 ## Preparations GitHub 
 [**Watch video**](https://youtu.be/Bj-7vnI8T0Q)
 1. Create GitHub account [**here**](https://github.com/)
-2. Login to account and follow this [**link**](https://github.com/centria/coding-exercises)
+2. Login to account and follow this [**link**](https://github.com/centria/cs-exercises-20)
 3. Click Fork-button on top right corner. These excercises will be forked to your GitHub account.
 4. Go back to main page by clicking the "cat icon" on top left corner
 5. Select repository from left
@@ -29,7 +29,7 @@ published: true
 
 ## Doing the exercises
 [**Watch video**](https://youtu.be/QZkKHFRVOGA)
-1. Check excercises and instructions  [**here**](https://github.com/centria/coding-exercises-20). 
+1. Check excercises and instructions  [**here**](https://github.com/centria/cs-exercises-20). 
 2. Read each material section before trying to do the exercises.
 3. Modify code in Visual Studio and push it back to your GitHub account.
 4. Right click your program-file and select "Go to Git changes"
