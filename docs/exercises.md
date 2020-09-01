@@ -5,16 +5,32 @@ nav_order: 99
 published: true
 ---
 
-## Where to begin
 
-Before you do this course, it is advised to do the [**course for command line and version control first**](https://centria.github.io/console/). This gives you tools to learn how to create your own Git repository and how to use it. This is required for returning the exercises for this course.
+## Preparations GitHub
+
+1. Create GitHub account [**here**](https://github.com/)
+2. Login to account and follow this [**link**](https://github.com/centria/coding-exercises)
+3. Click Fork-button on top right corner. These excercises will be forked to your GitHub account.
+4. Go back to main page by clicking the "cat icon" on top left corner
+5. Select repository from left
+6. Now copy web browser link and send it to teacher via e-mail: tero.niemi@centria.fi. (Note, your link should be something like: https://github.com/youraccountname/cs-exercises-20
+
+## Preparations Visual Studio
+
+1. Download Visual Studio 2019 [**here**](https://visualstudio.microsoft.com/vs/)
+2. Select .NET and Universal Windows platform to be installed
+3. After installation, download [**GitHub Extension**](https://visualstudio.github.com/) and install it to Visual Studio.
+4. Open Visual Studio
+5. Click Clone Repository
+6. Click GitHub from below and login with browser
+7. Login by using GitHub account
+8. Go back to Visual Studio, you should now be able to see all excercises files in Visual Studio
 
 ## Doing the exercises
 
-[**The exercises for this course are behind this link**](https://github.com/centria/coding-exercises). Do read each material section before trying to do the exercises.
-
-## Requirements
-
-To do the exercises, you need [**Dotnet Core**](https://dotnet.microsoft.com/download) and a decent editor, such as [**Visual Studio Code**](https://code.visualstudio.com/), as well as a [**GitHub account**](https://github.com/).
-
-You can use any editor, but the instructions are written with VSC in mind.
+1. Check excercises and instructions  [**here**](https://github.com/centria/coding-exercises). 
+2. Read each material section before trying to do the exercises.
+3. Modify code in Visual Studio and push it back to your GitHub account.
+4. Right click your program-file and select "Go to Git changes"
+5. Write DONE to message box and click "Commit all"
+6. After that, click Sync
