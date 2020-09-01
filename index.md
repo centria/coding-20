@@ -6,7 +6,7 @@ nav_order: 1
 
 ## Introduction
 
-This site is meant for H2C (Highway to code) in [**Centria University of Applied Sciences**](https://web.centria.fi/en). The course material will evolve and extend during the period of the course.
+This site is C# programming course for H2C (Highway to code) in [**Centria University of Applied Sciences**](https://web.centria.fi/en). This site includes all course materials and tasks.
 
 During the courses, the students learn the basics of programming and **C#**, as well as basics in object oriented programming. 
 
