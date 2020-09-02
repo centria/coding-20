@@ -33,7 +33,7 @@ Before doing anything, read following instructions carefully and do the steps as
 2. Modify code in Visual Studio and push it back to your GitHub account (check following steps).
 3. Right click your program-file and select "Go to Git changes"
 4. Write DONE to message box and click "Commit all"
-5. Yellow backround text appears which says commit created locally. Click Sync.
+5. Yellow background text appears which says commit created locally. Click Sync.
 6. Yellow background text vanishes. 
 7. Click Sync under "Branch" text.
 8. Syncing starts, it will take some time to sync.
