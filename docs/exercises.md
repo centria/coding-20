@@ -7,7 +7,6 @@ published: true
 
 
 ## Preparations GitHub 
-[**Watch video**](https://youtu.be/Bj-7vnI8T0Q)
 1. Create GitHub account [**here**](https://github.com/)
 2. Login to account and follow this [**link**](https://github.com/TeroNiemi/H2C-csharp-exercises)
 3. Click Fork-button on top right corner. These excercises will be forked to your GitHub account.
@@ -17,7 +16,6 @@ published: true
 
 
 ## Preparations Visual Studio
-[**Watch video**](https://youtu.be/RtscmJ1Nnls)
 1. Download Visual Studio 2019 [**here**](https://visualstudio.microsoft.com/vs/)
 2. Select .NET and Universal Windows platform to be installed
 3. After installation, download [**GitHub Extension**](https://visualstudio.github.com/) and install it to Visual Studio.
@@ -28,10 +26,11 @@ published: true
 8. Go back to Visual Studio, you should now be able to see all excercises files in Visual Studio
 
 ## Doing the exercises
-[**Watch video**](https://youtu.be/QZkKHFRVOGA)
-1. Check excercises and instructions  [**here**](https://github.com/TeroNiemi/H2C-csharp-exercises). 
+1. Check excercises and instructions what  to do [**here**](https://github.com/TeroNiemi/H2C-csharp-exercises). 
 2. Read each material section before trying to do the exercises.
 3. Modify code in Visual Studio and push it back to your GitHub account.
 4. Right click your program-file and select "Go to Git changes"
 5. Write DONE to message box and click "Commit all"
-6. After that, click Sync
+6. After that, click Sync and again Sync
+7. Login to your Github account and check that modifications shows there as well
+8. Do as many exercises as you can, your grade will be based on amount of exercises done.
