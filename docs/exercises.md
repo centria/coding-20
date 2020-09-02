@@ -29,6 +29,7 @@ Before doing anything, read following instructions carefully and do the steps as
 8. Go back to Visual Studio, you should now be able to see all excercises files in Visual Studio
 
 ## How to do and return exercises
+Watch instruction video [**here**](https://youtu.be/iFvHf7mr324)
 1. Read exercise instruction that you know what to do
 2. Modify code in Visual Studio and push it back to your GitHub account (check following steps).
 3. Right click your program-file and select "Go to Git changes"
