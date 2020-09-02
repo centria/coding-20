@@ -34,7 +34,8 @@ Before doing anything, read following instructions carefully and do the steps as
 3. Right click your program-file and select "Go to Git changes"
 4. Write DONE to message box and click "Commit all"
 5. Yellow backround text appears which says commit created locally. Click Sync.
-6. Yellow background text vanishes and click Sync under "Branch" text.
-7. Syncing starts, it will take some time to sync.
-8. Login to your Github account and check that modifications are shown there as well
-9. Do as many exercises as you can, your grade will be based on amount of exercises done correctly.
+6. Yellow background text vanishes. 
+7. Click Sync under "Branch" text.
+8. Syncing starts, it will take some time to sync.
+9. Login to your Github account and check that modifications are shown there as well
+10. Do as many exercises as you can, your grade will be based on amount of exercises done correctly.
