@@ -33,7 +33,8 @@ Before doing anything, read following instructions carefully and do the steps as
 2. Modify code in Visual Studio and push it back to your GitHub account.
 3. Right click your program-file and select "Go to Git changes"
 4. Write DONE to message box and click "Commit all"
-5. After that, click Sync. Text shows that synced locally, click anohter sync button below this text to sync to server.
-6. Syncing starts, it will take some time to sync.
-7. Login to your Github account and check that modifications are shown there as well
-8. Do as many exercises as you can, your grade will be based on amount of exercises done correctly.
+5. Yellow backround text appears which says commit created locally. Click Sync.
+6. Yellow background text vanishes and click Sync under "Branch" text.
+7. Syncing starts, it will take some time to sync.
+8. Login to your Github account and check that modifications are shown there as well
+9. Do as many exercises as you can, your grade will be based on amount of exercises done correctly.
