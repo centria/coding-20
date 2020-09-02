@@ -28,7 +28,7 @@ Before doing anything, read following instructions carefully and do the steps as
 7. Login by using GitHub account
 8. Go back to Visual Studio, you should now be able to see all excercises files in Visual Studio
 
-## Doing the exercises
+## How to do and return exercises
 1. Check excercises and instructions what  to do [**here**](https://github.com/TeroNiemi/H2C-csharp-exercises). 
 2. Read each material section before trying to do the exercises.
 3. Modify code in Visual Studio and push it back to your GitHub account.
