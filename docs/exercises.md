@@ -29,11 +29,10 @@ Before doing anything, read following instructions carefully and do the steps as
 8. Go back to Visual Studio, you should now be able to see all excercises files in Visual Studio
 
 ## How to do and return exercises
-1. Check excercises and instructions what  to do [**here**](https://github.com/TeroNiemi/H2C-csharp-exercises). 
-2. Read each material section before trying to do the exercises.
-3. Modify code in Visual Studio and push it back to your GitHub account.
-4. Right click your program-file and select "Go to Git changes"
-5. Write DONE to message box and click "Commit all"
-6. After that, click Sync and again Sync
-7. Login to your Github account and check that modifications shows there as well
-8. Do as many exercises as you can, your grade will be based on amount of exercises done.
+1. Read exercise instruction that you know what to do
+2. Modify code in Visual Studio and push it back to your GitHub account.
+3. Right click your program-file and select "Go to Git changes"
+4. Write DONE to message box and click "Commit all"
+5. After that, click Sync and again Sync
+6. Login to your Github account and check that modifications are shown there as well
+7. Do as many exercises as you can, your grade will be based on amount of exercises done correctly.
