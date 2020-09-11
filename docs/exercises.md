@@ -30,13 +30,18 @@ Before doing anything, read following instructions carefully and do the steps as
 
 ## How to do and return exercises
 Watch instruction video [**here**](https://youtu.be/iFvHf7mr324)
-1. Read exercise instruction that you know what to do
-2. Modify code in Visual Studio and push it back to your GitHub account (check following steps).
-3. Right click your program-file and select "Go to Git changes"
-4. Write DONE to message box and click "Commit all"
-5. Yellow background text appears which says commit created locally. Click Sync.
-6. Yellow background text vanishes. 
-7. Click Sync under "Branch" text.
-8. Syncing starts, it will take some time to sync.
-9. Login to your Github account and check that modifications are shown there as well
-10. Do as many exercises as you can, your grade will be based on amount of exercises done correctly.
+1. Read appropriate material section and then read exercise instruction, that you know what to do
+2. Open Visual studio and your reposition which contains all exercises
+3. Open correct exercise number and rightclick Program.cs file and select "Set as startup item"
+4. Modify code
+5. Build Program (CTRL + B)
+6. Start without debugging (Ctrl + F5)
+7. If satisfied and program working fine, push it back to your GitHub account (check following steps).
+8. Right click your program-file and select "Go to Git changes"
+9. Write DONE to message box and click "Commit all"
+10. Yellow background text appears which says commit created locally. Click Sync.
+11. Yellow background text vanishes. 
+12. Click Sync under "Branch" text.
+13. Syncing starts, it will take some time to sync.
+14. Login to your Github account and check that modifications are shown there as well
+15. Do as many exercises as you can, your grade will be based on amount of exercises done correctly.
