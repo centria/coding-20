@@ -29,7 +29,7 @@ Before doing anything, read following instructions carefully and do the steps as
 8. Go back to Visual Studio, you should now be able to see all excercises files in Visual Studio
 
 ## How to do and return exercises
-Watch instruction video [**here**](https://youtu.be/iFvHf7mr324)
+Watch instruction video [**here**](https://youtu.be/UHEUA1-PEzo)
 1. Read appropriate material section and then read exercise instruction, that you know what to do
 2. Open Visual studio and your reposition which contains all exercises
 3. Open correct exercise number and rightclick Program.cs file and select "Set as startup item"
