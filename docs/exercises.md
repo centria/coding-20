@@ -5,9 +5,7 @@ nav_order: 99
 published: true
 ---
 
-Exercises are [**here**](https://github.com/TeroNiemi/H2C-csharp-exercises)
-
-Before doing anything, read following instructions carefully and do the steps as instructed!
+Read following instructions carefully and do the steps as instructed!
 
 ## Preparations GitHub 
 1. Create GitHub account [**here**](https://github.com/)
