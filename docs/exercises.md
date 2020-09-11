@@ -38,7 +38,7 @@ Watch instruction video [**here**](https://youtu.be/iFvHf7mr324)
 6. Start without debugging (Ctrl + F5)
 7. If satisfied and program working fine, push it back to your GitHub account (check following steps).
 8. Right click your program-file and select "Go to Git changes"
-9. Write DONE to message box and click "Commit all"
+9. Write current date to message box and click "Commit all"
 10. Yellow background text appears which says commit created locally. Click Sync.
 11. Yellow background text vanishes. 
 12. Click Sync under "Branch" text.
