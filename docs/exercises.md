@@ -13,7 +13,8 @@ Read following instructions carefully and do the steps as instructed!
 3. Click Fork-button on top right corner. These excercises will be forked to your GitHub account.
 4. Go back to main page by clicking the "cat icon" on top left corner
 5. Select repository from left
-6. Now copy web browser link and send it to teacher via e-mail: tero.niemi@centria.fi. (Note, your link should be something like: https://github.com/youraccountname/H2C-csharp-exercises)
+6. Now copy web browser link and send it to teacher via e-mail: tero.niemi@centria.fi. Write email subject: H2C C# exercise link.
+   (Teacher will use this link to evaluate your exercises)
 
 
 ## Preparations Visual Studio
