@@ -10,7 +10,7 @@ To execute and return exercises, you must have GitHub account and you have to fo
 After that, you'll modify your own forked exercises with Visual Studio and sync changes back to your GitHub account.
 Teacher will evaluate exercises straight from students' GitHub accounts.
 
-Read following instructions carefully and do the steps exactly as instructed!!
+Read following instructions carefully and do the steps exactly as instructed!
 
 ## Preparations GitHub 
 1. If you don't have GitHub account, create it [**here**](https://github.com/) 
