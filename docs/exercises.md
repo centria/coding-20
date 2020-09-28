@@ -15,7 +15,7 @@ Read following instructions carefully and do the steps exactly as instructed!
 ## Preparations GitHub 
 1. If you don't have GitHub account, create it [**here**](https://github.com/) 
 2. Login to account and follow this [**link**](https://github.com/TeroNiemi/H2C-csharp-exercises)
-3. Click Fork-button on top right corner. These excercises will be forked to your GitHub account.
+3. Click Fork-button on top right corner. These excercises will be forked (=copied) to your GitHub account.
 4. Go back to main page by clicking the "cat icon" on top left corner
 5. Click forked "H2C-csharp-exercises" repository from left
 6. Now copy web browser link and send it to teacher via e-mail: tero.niemi(at)centria.fi 
