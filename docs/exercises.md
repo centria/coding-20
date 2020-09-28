@@ -48,5 +48,5 @@ Watch instruction video [**here**](https://youtu.be/UHEUA1-PEzo)
 11. Yellow background text vanishes. 
 12. Click Sync under "Branch" text.
 13. Syncing starts, it will take some time to sync.
-14. Login to your Github account and check that modifications are shown there as well
+14. Login to your Github account and check that modifications are shown there as well (remember to refresh web page)
 15. Do as many exercises as you can, your grade will be based on amount of exercises done correctly.
