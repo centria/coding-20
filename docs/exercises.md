@@ -35,8 +35,8 @@ Read following instructions carefully and do the steps exactly as instructed!
 
 ## How to do and return exercises
 Watch instruction video [**here**](https://youtu.be/UHEUA1-PEzo)
-1. Read appropriate material section and then read exercise instruction, that you know what to do
-2. Open Visual studio and your reposition which contains all exercises
+1. Read appropriate material section and then read exercise instruction, that you know what to do. You can read exercise instruction from your own GitHub account, just select the repository "H2C-csharp-exercises". Scroll down page and you'll see instructions for all exercises.
+2. Open Visual studio and your reposition which contains all exercises code templates.
 3. Open correct exercise number and rightclick Program.cs file and select "Set as startup item"
 4. Modify code
 5. Build Program (CTRL + B)
