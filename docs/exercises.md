@@ -13,7 +13,7 @@ Teacher will evaluate exercises straight from students' GitHub accounts.
 Read following instructions carefully and do the steps exactly as instructed!
 
 ## Preparations GitHub 
-1. Create GitHub account [**here**](https://github.com/)
+1. If you don't have GitHub account, create it [**here**](https://github.com/) 
 2. Login to account and follow this [**link**](https://github.com/TeroNiemi/H2C-csharp-exercises)
 3. Click Fork-button on top right corner. These excercises will be forked to your GitHub account.
 4. Go back to main page by clicking the "cat icon" on top left corner
