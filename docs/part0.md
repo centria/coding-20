@@ -30,3 +30,4 @@ The courses are graded on a scale of 0-5, individually. The grade comprises of t
 | 51 - 60  |   1   |
 | 50 or less|   0   |
 
+There are totally 137 exercises to choose what you like to do.
