@@ -21,12 +21,12 @@ The list below does not include everything, but exists to give a guideline for s
 The courses are graded on a scale of 0-5, individually. The grade comprises of the amount of exercises done. There will be no exam.
 
 
-| Percentage done | Grade |
+| Exercises done | Grade |
 |:----------------|:-----:|
-| 90 % or more    |   5   |
-| 80 % - 89,99 %  |   4   |
-| 70 % - 79,99 %  |   3   |
-| 60 % - 69,99 %  |   2   |
-| 50 % - 59,99 %  |   1   |
-| Less than 50 %  |   0   |
+| 101 or more   |   5   |
+| 91 - 100 |   4   |
+| 81 - 90  |   3   |
+| 71 - 80  |   2   |
+| 61 - 70  |   1   |
+| 60 or less|   0   |
 
