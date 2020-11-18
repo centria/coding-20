@@ -23,10 +23,10 @@ The courses are graded on a scale of 0-5, individually. The grade comprises of t
 
 | Exercises done | Grade |
 |:----------------|:-----:|
-| 101 or more   |   5   |
-| 91 - 100 |   4   |
-| 81 - 90  |   3   |
-| 71 - 80  |   2   |
-| 61 - 70  |   1   |
-| 60 or less|   0   |
+| 91 or more   |   5   |
+| 81 - 90 |   4   |
+| 71 - 80  |   3   |
+| 61 - 70  |   2   |
+| 51 - 60  |   1   |
+| 50 or less|   0   |
 
