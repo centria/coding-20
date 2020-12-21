@@ -20,7 +20,7 @@ The list below does not include everything, but exists to give a guideline for s
 
 
 
-## Grade table (spring 2021)
+## Grade table (Spring 2021)
 The grade comprises of the amount of exercises done. There will be no exam. 
 
 | Exercises done | Grade |
