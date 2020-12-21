@@ -20,14 +20,14 @@ The list below does not include everything, but exists to give a guideline for s
 
 The courses are graded on a scale of 0-5, individually. The grade comprises of the amount of exercises done. There will be no exam.
 
-
+The following grade table is valid in spring 2021
 | Exercises done | Grade |
 |:----------------|:-----:|
-| 91 or more   |   5   |
-| 81 - 90 |   4   |
-| 71 - 80  |   3   |
-| 61 - 70  |   2   |
-| 51 - 60  |   1   |
-| 50 or less|   0   |
+| 100 or more   |   5   |
+| 90 - 99 |   4   |
+| 80 - 89  |   3   |
+| 70 - 79  |   2   |
+| 60 - 69  |   1   |
+| 59 or less|   0   |
 
-There are totally 137 exercises to choose what you like to do.
+There are totally 137 exercises available to choose what you like to do.
