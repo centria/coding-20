@@ -20,7 +20,8 @@ The list below does not include everything, but exists to give a guideline for s
 
 The courses are graded on a scale of 0-5, individually. The grade comprises of the amount of exercises done. There will be no exam.
 
-The following grade table is valid in spring 2021
+**The following grade table is valid in spring 2021**
+
 | Exercises done | Grade |
 |:----------------|:-----:|
 | 100 or more   |   5   |
