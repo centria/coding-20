@@ -6,7 +6,7 @@ nav_order: 2
 
 ## Learning goals and grading
 
-The list below does not include everything, but exists to give a guideline for students, what to expect each week. This list may extend as the course goes on.
+The list below does not include everything, but exists to give a guideline for students, what to expect from this course. 
 
 | Part     |      Goal   |  
 |:--------:|:------------|
