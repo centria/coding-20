@@ -1,5 +1,5 @@
 ---
-title: "Learning goals"
+title: "Learning goals and grading"
 permalink: /part0/
 nav_order: 2
 ---
