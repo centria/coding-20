@@ -18,9 +18,10 @@ The list below does not include everything, but exists to give a guideline for s
 | 6| You understand the dfference between **static** and **non-static** classes and methods. You can separate **user interface** from program logic. |
 
 
-The courses are graded on a scale of 0-5, individually. The grade comprises of the amount of exercises done. There will be no exam.
 
-## The following grade table is valid in spring 2021
+
+## Grade table (spring 2021)
+The grade comprises of the amount of exercises done. There will be no exam. 
 
 | Exercises done | Grade |
 |:----------------|:-----:|
@@ -31,4 +32,4 @@ The courses are graded on a scale of 0-5, individually. The grade comprises of t
 | 60 - 69  |   1   |
 | 59 or less|   0   |
 
-There are totally 137 exercises available to choose what you like to do.
+
